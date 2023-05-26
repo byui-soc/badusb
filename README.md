@@ -1,0 +1,2 @@
+Bad USB Scripts
+Rickroll
