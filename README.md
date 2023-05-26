@@ -17,6 +17,8 @@ After downloading, extract the zip file and open it. Then, drag the folder to Do
 
 [My Little Pony Theme](https://drive.google.com/uc?export=download&id=1mZIwn5qotiY9ZASHxZ7SrGkQqmLOLz5A)<br>
 
+[My Little Pony Theme](https://drive.google.com/uc?export=download&id=1yByFz3yUTVhlJK70iLaBS0tya31djxeZ)<br>
+
 [Anime Theme](https://drive.google.com/uc?export=download&id=1uzUmrHbY0EE8DsM_6kl74OMpMmeHbTzQ)<br>
 
 [Mouse Jiggler](https://drive.google.com/uc?export=download&id=1uOBq9pcya6TfWD-p0zrlJiniWLHXQvhZ)<br>
