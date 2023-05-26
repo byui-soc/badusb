@@ -8,5 +8,8 @@ After downloading, extract the zip file and open it. Then, drag the folder to Do
 
 [![Rubber Ducky Setup](https://i.ytimg.com/vi/uH-4btjE56E/maxresdefault.jpg)](https://www.youtube.com/watch?v=uH-4btjE56E&ab_channel=TheCyberMentor)
 
+
+### Scripts
+
 [Rickroll](https://drive.google.com/uc?export=download&id=1yByFz3yUTVhlJK70iLaBS0tya31djxeZ)
 
