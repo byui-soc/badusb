@@ -1,6 +1,6 @@
 
 <p align="right">
-  <img src="https://byui-soc.github.io/assets/images/logo.png" alt="Sublime's custom image"/>
+  <img src="https://byui-soc.github.io/assets/images/logo.png" alt="Sublime's custom image" width="250" height="250/> 
 </p>
 Disclaimer: We are not responsible for anything illegal that happens when running these scripts. These scripts are purely meant for harmless fun and/or penetration testing and not for malicious activity. 
 
