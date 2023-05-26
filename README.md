@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+
 Disclaimer: We are not responsible for anything illegal that happens when running these scripts. These scripts are purely meant for harmless fun and/or penetration testing and not for malicious activity.
 
 ### Instructions
