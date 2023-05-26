@@ -4,7 +4,7 @@ Disclaimer: We are not responsible for anything illegal that happens when runnin
 
 ### Instructions
 
-After downloading, extract the zip file and open it. Then, drag the folder to Documents/Arduino. If you do not have Arduino installed, here is a guide on how to get everything set up.
+After downloading, extract the zip file and open it. Then, drag the folder to Documents/Arduino. If you do not have Arduino or the DigiKeyboard installed, here is a guide on how to get everything set up so you can start making Bad USBs.
 
 [![Rubber Ducky Setup](https://i.ytimg.com/vi/uH-4btjE56E/maxresdefault.jpg)](https://www.youtube.com/watch?v=uH-4btjE56E&ab_channel=TheCyberMentor)
 
