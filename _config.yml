@@ -1,1 +1,16 @@
+title: Bad USB
+author: Nedak Sllim
+url: https://byui-soc.github.io/
 
+favicon: https://byui-soc.github.io/assets/images/logo.png
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+remote_theme: abhinavs/moonwalk
+
+theme_config:
+  appearance: "dark"
