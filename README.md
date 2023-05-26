@@ -1,5 +1,3 @@
-## Bad USB Scripts
-
 Disclaimer: We are not responsible for anything illegal that happens when running these scripts. These scripts are purely meant for harmless fun and/or penetration testing and not for malicious activity.
 
 ### Instructions
